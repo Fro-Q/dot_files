@@ -1,0 +1,26 @@
+# Color Theme
+# theme = Gruvbox Dark
+theme = oq_dark
+
+# Font
+font-family = "Monaspace Radon NF Light"
+font-family = "YshiPen-ShutiTC"
+font-size = 24
+font-feature = calt, ss03, ss04, ss06, ss07, ss08, ss09, ss10, liga
+
+# Hide mouse
+mouse-hide-while-typing = true
+
+# Window
+window-inherit-font-size = false
+window-decoration = none
+window-padding-x = 10
+window-padding-y = 0
+window-padding-balance = false
+window-padding-color = background
+
+# Close comfirm
+confirm-close-surface = false
+
+# Key
+macos-option-as-alt = true
